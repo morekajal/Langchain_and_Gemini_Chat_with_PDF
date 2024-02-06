@@ -1,3 +1,3 @@
 # LLMProjects
 Will have different handson project
-1. QnA chatbot as a Fitness Advisor
+1. Chat With Multiple PDF with Gemini model
